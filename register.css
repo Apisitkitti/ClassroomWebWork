@@ -33,8 +33,7 @@ fieldset input{
   border-radius: 5px;
   padding: 5px;
   border: none;
-  background-color: rgb(234, 234, 234);
-  
+  background-color: rgb(234, 234, 234); 
 }
 .group_button
 {
